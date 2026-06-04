@@ -1,0 +1,5 @@
+﻿Modèle,MAE (L),RMSE (L),MAPE (%),Type,Saisonnalité
+"ARIMA(2,1,0)",41881,47728,30.1,Statistique,Non
+"SARIMA(2,1,0)(0,0,0)12",40295,45854,29.0,Statistique,Oui (m=12)
+Random Forest,3400,6292,43.4,Machine Learning,Via features
+XGBoost,3122,5844,38.8,Machine Learning,Via features
