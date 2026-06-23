@@ -1,0 +1,4 @@
+Segment,Stratégie,Nb modèles,MAPE moyen,MAPE médian,d moyen,Stock sécurité
+Stable,"Par couple (station, produit)",14,132471551075931.9%,22.3%,0.4,15%
+Modere,Global par segment,1,16.0%,16.0%,1,25%
+Erratique,Règles métier + alertes,0,N/A,N/A,N/A,40%
